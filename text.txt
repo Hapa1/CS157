@@ -1,0 +1,5 @@
+"Name"	"EmpId"	"DeptName"	"Manager"
+"Harry"	"3415"	"Finance" "George"
+"Sally"	"2241"	"Sales"	"Harriet"
+"George" "3401"	"Finance" "George"
+"Harriet" "2202" "Sales" "Harriet" 

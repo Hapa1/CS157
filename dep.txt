@@ -1,0 +1,4 @@
+"DeptName"	"Manager"
+"Sales"	"Harriet"
+"Finance"	"George"
+"Production"	"Charles"
